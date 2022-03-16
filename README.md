@@ -1,8 +1,10 @@
 # interactive chrome-dev tools using puppeteer
 
 ## quickstart
-1. `npm i`
-2. `./run.sh`
+1. `git clone https://github.com/lsternlicht/puppeteer_interactive.git` 
+2. `cd puppeteer_interactive`
+2. `npm i`
+3. `./run.sh`
 
 
 ## start node debugger
